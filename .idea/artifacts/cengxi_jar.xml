@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cengxi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cengxi_jar</output-path>
+    <root id="archive" name="cengxi.jar">
+      <element id="module-output" name="cengxi" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/cengxi1.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/color.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/pan.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/panarrow.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/zhuanlun.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/famen2.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/display.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/cengxi.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/img/famen.png" />
+    </root>
+  </artifact>
+</component>
